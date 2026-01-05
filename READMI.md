@@ -20,7 +20,7 @@ Projeto realizado com a participação na semana NLW e-Sports <a href="https://w
 <br>
 
   <div align="center">
-    <a href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank"><img src="assets/mockup-entrega.png" alt="Projeto Devlinks"></a>
+    <a href="https://robertojunnior.github.io/nlw_e_sports/" target="_blank"><img src=".github/preview.jpg" alt="Projeto Devlinks"></a>
   </div>
 
 <br>
@@ -49,13 +49,13 @@ O DevLinks é um agregador de links para usar como cartão de visitas online
 Todo o layout foi criado pela Rocktseat e demonstrado pelo instrutor Mayk Brito.
 
 
-## :memo: Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Roberto Junior 😁:wave: 
+Feito com ♥ by Rafael Nascimento 😁 🌊 
 <br>🧑‍🚀[Inscreva-se no canal do YouTube da ROCKETSEAT!](https://www.youtube.com/rocketseat)
 
     
