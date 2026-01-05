@@ -55,7 +55,7 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rafael Nascimento 😁 🌊 
+Feito com ♥ by Rafael N😁 🌊 
 <br>🧑‍🚀[Inscreva-se no canal do YouTube da ROCKETSEAT!](https://www.youtube.com/rocketseat)
 
     
